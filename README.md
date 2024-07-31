@@ -21,5 +21,5 @@ This project is a web-based Sudoku game built using Next.js and React. The game 
 **Play**: Fill in the Sudoku board. Use the hint button if you get stuck.
 **Check**: Use the check button to verify your current board. Note the limited number of checks.
 **Submit**: Submit your completed board to see your score and time.
-###Leaderboard
+### Leaderboard
 Compete against other players by completing puzzles as quickly as possible. Your best times and scores will be displayed on the leaderboard.
