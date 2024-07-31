@@ -14,8 +14,8 @@ This project is a web-based Sudoku game built using Next.js and React. The game 
 **Hints**: Get hints to assist you when you're stuck, with a limit to ensure fair play.
 **Checks**: Verify your current board state, with a limit to maintain the challenge.
 
-##Usage
-###Gameplay
+## Usage
+### Gameplay
 **Sign In**: Sign in to save your progress and access the leaderboard.
 **Choose Difficulty**: Select a difficulty mode to start a new game.
 **Play**: Fill in the Sudoku board. Use the hint button if you get stuck.
